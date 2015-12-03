@@ -1,0 +1,36 @@
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\obj\Debug\Exportacion.csprojResolveAssemblyReference.cache
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\bin\Debug\DataTransferObject.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\bin\Debug\DataTransferObject.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\bin\Debug\Excepciones.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\bin\Debug\Excepciones.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\bin\Debug\Exportacion.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\bin\Debug\Exportacion.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\obj\Debug\Exportacion.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Exportador\obj\Debug\Exportacion.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\Exportacion.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\Exportacion.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\DataTransferObject.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\Excepciones.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\DataTransferObject.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\bin\Debug\Excepciones.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\obj\Debug\Exportacion.csprojResolveAssemblyReference.cache
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\obj\Debug\Exportacion.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Exportador\obj\Debug\Exportacion.pdb
+D:\Dropbox\Taller .Net\Project\Codigo fuente\Exportador\bin\Debug\Exportacion.dll
+D:\Dropbox\Taller .Net\Project\Codigo fuente\Exportador\bin\Debug\Exportacion.pdb
+D:\Dropbox\Taller .Net\Project\Codigo fuente\Exportador\bin\Debug\DataTransferObject.dll
+D:\Dropbox\Taller .Net\Project\Codigo fuente\Exportador\bin\Debug\Excepciones.dll
+D:\Dropbox\Taller .Net\Project\Codigo fuente\Exportador\bin\Debug\DataTransferObject.pdb
+D:\Dropbox\Taller .Net\Project\Codigo fuente\Exportador\bin\Debug\Excepciones.pdb
+D:\Dropbox\Taller .Net\Project\Codigo fuente\Exportador\obj\Debug\Exportacion.csprojResolveAssemblyReference.cache
+D:\Dropbox\Taller .Net\Project\Codigo fuente\Exportador\obj\Debug\Exportacion.dll
+D:\Dropbox\Taller .Net\Project\Codigo fuente\Exportador\obj\Debug\Exportacion.pdb
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\Exportador\bin\Debug\Exportacion.dll
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\Exportador\bin\Debug\Exportacion.pdb
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\Exportador\bin\Debug\DataTransferObject.dll
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\Exportador\bin\Debug\Excepciones.dll
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\Exportador\bin\Debug\DataTransferObject.pdb
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\Exportador\bin\Debug\Excepciones.pdb
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\Exportador\obj\Debug\Exportacion.csprojResolveAssemblyReference.cache
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\Exportador\obj\Debug\Exportacion.dll
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\Exportador\obj\Debug\Exportacion.pdb

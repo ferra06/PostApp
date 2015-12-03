@@ -1,0 +1,20 @@
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Excepciones\bin\Debug\Excepciones.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Excepciones\bin\Debug\Excepciones.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Excepciones\obj\Debug\Excepciones.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Excepciones\obj\Debug\Excepciones.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Excepciones\bin\Debug\Excepciones.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Excepciones\bin\Debug\Excepciones.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Excepciones\obj\Debug\Excepciones.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Excepciones\obj\Debug\Excepciones.pdb
+D:\Dropbox\Taller .Net\Project\Codigo fuente\Excepciones\bin\Debug\Excepciones.dll
+D:\Dropbox\Taller .Net\Project\Codigo fuente\Excepciones\bin\Debug\Excepciones.pdb
+D:\Dropbox\Taller .Net\Project\Codigo fuente\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\Dropbox\Taller .Net\Project\Codigo fuente\Excepciones\obj\Debug\Excepciones.dll
+D:\Dropbox\Taller .Net\Project\Codigo fuente\Excepciones\obj\Debug\Excepciones.pdb
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\Excepciones\bin\Debug\Excepciones.dll
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\Excepciones\bin\Debug\Excepciones.pdb
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\Excepciones\obj\Debug\Excepciones.dll
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\Excepciones\obj\Debug\Excepciones.pdb

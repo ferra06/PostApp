@@ -1,0 +1,40 @@
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\bin\Debug\CorreoServicio.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\bin\Debug\CorreoServicio.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\bin\Debug\DataTransferObject.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\bin\Debug\OpenPop.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\bin\Debug\DataTransferObject.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\obj\Debug\CorreoServicio.csprojResolveAssemblyReference.cache
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\obj\Debug\CorreoServicio.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\obj\Debug\CorreoServicio.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\bin\Debug\Excepciones.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\CorreoServicio\bin\Debug\Excepciones.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\CorreoServicio.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\CorreoServicio.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\DataTransferObject.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\Excepciones.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\OpenPop.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\DataTransferObject.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\bin\Debug\Excepciones.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.csprojResolveAssemblyReference.cache
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.pdb
+D:\Dropbox\Taller .Net\Project\Codigo fuente\CorreoServicio\bin\Debug\CorreoServicio.dll
+D:\Dropbox\Taller .Net\Project\Codigo fuente\CorreoServicio\bin\Debug\CorreoServicio.pdb
+D:\Dropbox\Taller .Net\Project\Codigo fuente\CorreoServicio\bin\Debug\DataTransferObject.dll
+D:\Dropbox\Taller .Net\Project\Codigo fuente\CorreoServicio\bin\Debug\Excepciones.dll
+D:\Dropbox\Taller .Net\Project\Codigo fuente\CorreoServicio\bin\Debug\OpenPop.dll
+D:\Dropbox\Taller .Net\Project\Codigo fuente\CorreoServicio\bin\Debug\DataTransferObject.pdb
+D:\Dropbox\Taller .Net\Project\Codigo fuente\CorreoServicio\bin\Debug\Excepciones.pdb
+D:\Dropbox\Taller .Net\Project\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.csprojResolveAssemblyReference.cache
+D:\Dropbox\Taller .Net\Project\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.dll
+D:\Dropbox\Taller .Net\Project\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.pdb
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\CorreoServicio\bin\Debug\CorreoServicio.dll
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\CorreoServicio\bin\Debug\CorreoServicio.pdb
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\CorreoServicio\bin\Debug\DataTransferObject.dll
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\CorreoServicio\bin\Debug\Excepciones.dll
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\CorreoServicio\bin\Debug\OpenPop.dll
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\CorreoServicio\bin\Debug\DataTransferObject.pdb
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\CorreoServicio\bin\Debug\Excepciones.pdb
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.csprojResolveAssemblyReference.cache
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.dll
+D:\Dropbox\Cursa\Ingenieria de Software\TP Integrador\Project\Codigo fuente\CorreoServicio\obj\Debug\CorreoServicio.pdb
